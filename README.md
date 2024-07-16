@@ -8,6 +8,7 @@ The ultimate goal of this code is to develop a means of finding the maximum (or 
 - Qiskit: An open-source quantum computing framework by IBM. For more information, visit [Qiskit Documentation](https://qiskit.org/documentation/).
 
 ## Acknowledgments
-This project uses Qiskit, an open-source quantum computing framework by IBM. For more information on Qiskit, visit [https://qiskit.org](https://qiskit.org).
+1. This project uses Qiskit, an open-source quantum computing framework by IBM. For more information on Qiskit, visit [https://qiskit.org](https://qiskit.org).
+2. This project uses code from "Hello World | Coding with Qiskit 1.x | Programming on Quantum Computers", a video on the official Qiskit Youtube channel. Link for the video: https://www.youtube.com/watch?v=93-zLTppFZw&t=855s
 
 License: This project is licensed under the MIT license - see the LICENSE file for details.
